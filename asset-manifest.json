@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactAPI_ProductSlider/static/css/main.ac1bf312.chunk.css",
+    "main.js": "/ReactAPI_ProductSlider/static/js/main.6809a19d.chunk.js",
+    "main.js.map": "/ReactAPI_ProductSlider/static/js/main.6809a19d.chunk.js.map",
+    "runtime-main.js": "/ReactAPI_ProductSlider/static/js/runtime-main.e302ac60.js",
+    "runtime-main.js.map": "/ReactAPI_ProductSlider/static/js/runtime-main.e302ac60.js.map",
+    "static/js/2.1588ef80.chunk.js": "/ReactAPI_ProductSlider/static/js/2.1588ef80.chunk.js",
+    "static/js/2.1588ef80.chunk.js.map": "/ReactAPI_ProductSlider/static/js/2.1588ef80.chunk.js.map",
+    "static/js/3.d5f0d13c.chunk.js": "/ReactAPI_ProductSlider/static/js/3.d5f0d13c.chunk.js",
+    "static/js/3.d5f0d13c.chunk.js.map": "/ReactAPI_ProductSlider/static/js/3.d5f0d13c.chunk.js.map",
+    "index.html": "/ReactAPI_ProductSlider/index.html",
+    "static/css/main.ac1bf312.chunk.css.map": "/ReactAPI_ProductSlider/static/css/main.ac1bf312.chunk.css.map",
+    "static/js/2.1588ef80.chunk.js.LICENSE.txt": "/ReactAPI_ProductSlider/static/js/2.1588ef80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e302ac60.js",
+    "static/js/2.1588ef80.chunk.js",
+    "static/css/main.ac1bf312.chunk.css",
+    "static/js/main.6809a19d.chunk.js"
+  ]
+}
