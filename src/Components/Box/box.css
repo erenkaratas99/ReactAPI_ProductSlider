@@ -1,0 +1,54 @@
+.ProdBox
+{
+    text-align: center;
+
+    display: inline-block;
+    padding:20px;
+    min-height: 100px;
+    max-width: 150px;
+    border: 5px solid orangered;
+    background-color: #0cd1e0;
+
+    flex : 1;
+    border-radius: 5%;
+    margin: 4px;
+    object-fit: cover;
+}
+.Img {
+    border-radius: 5%;
+    background-color: var(--light);
+    min-height: 200px;
+    max-width: 150px;
+    padding: 2px;
+
+}
+
+.AddCart {
+
+    height: 50px;
+    width: 150px;
+    border: solid orange;
+    border-radius: 25%;
+    align-items: center;
+    transition-duration: 0.4s;
+    background-color: orange;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    font-size: larger;
+}
+.AddCart:enabled:hover {
+
+    box-shadow: 0px 5px 20px 5px rgb(255, 153, 0), 0 2px 50px 0 rgb(255, 153, 0);
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.title{
+    font-family: "Times New Roman";
+    font-size: larger;
+    font-weight: bold;
+    color: orangered;
+
+
+}
